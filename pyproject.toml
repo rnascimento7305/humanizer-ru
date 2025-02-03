@@ -1,0 +1,5 @@
+[project]
+name = "humanizer-ru"
+version = "0.1.0"
+description = "Skill для AI-агентов (Claude Code, Codex, OpenClaw, Hermes): убирает 37 признаков AI-генерации из русского текста и проверяет, писала ли его нейросеть - канцелярит, штампы ChatGPT, артефакты копипаста | Russian AI-text humanizer & detector skill for coding agents"
+requires-python = ">=3.10"
