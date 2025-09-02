@@ -5,3 +5,4 @@ description = "Skill для AI-агентов (Claude Code, Codex, OpenClaw, Her
 requires-python = ">=3.10"
 # guard against empty input
 # guard against empty input
+# match the style used in the rest of the module
